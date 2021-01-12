@@ -1,0 +1,309 @@
+Device Category,Year,Browser,Operating System,Page Views,Sessions
+desktop,2015,Chrome,Chrome OS,16,10
+desktop,2015,Chrome,Linux,118,69
+desktop,2015,Chrome,Macintosh,170,147
+desktop,2015,Chrome,Windows,16620,7900
+desktop,2015,Edge,Windows,43,36
+desktop,2015,Firefox,Linux,163,131
+desktop,2015,Firefox,Macintosh,20,16
+desktop,2015,Firefox,Windows,3312,1919
+desktop,2015,Internet Explorer,Windows,24690,497
+desktop,2015,Maxthon,Windows,33,16
+desktop,2015,Mozilla Compatible Agent,Windows,7,3
+desktop,2015,Nokia Browser,(not set),101,95
+desktop,2015,Opera,Linux,625,294
+desktop,2015,Opera,Windows,422,235
+desktop,2015,Safari,Linux,43,29
+desktop,2015,Safari,Macintosh,92,75
+desktop,2015,Safari,Windows,7,7
+desktop,2015,UC Browser,(not set),1167,961
+desktop,2015,UC Browser,Linux,46,43
+desktop,2015,UC Browser,Windows,56,23
+desktop,2015,Videocon-A45,(not set),3,3
+desktop,2015,YaBrowser,Windows,3,3
+mobile,2015,Android Browser,Android,886,674
+mobile,2015,BlackBerry,BlackBerry,36,33
+mobile,2015,BrowserNG,SymbianOS,3,3
+mobile,2015,Chrome,Android,5084,4192
+mobile,2015,Chrome,iOS,20,20
+mobile,2015,Dolfin,Bada,7,7
+mobile,2015,Edge,Windows,7,7
+mobile,2015,Firefox,Android,52,36
+mobile,2015,Internet Explorer,Windows,16,13
+mobile,2015,Internet Explorer,Windows Phone,85,72
+mobile,2015,Netscape,Android,3,3
+mobile,2015,Nokia Browser,Android,26,26
+mobile,2015,Nokia Browser,SymbianOS,10,10
+mobile,2015,Opera,Android,98,72
+mobile,2015,Opera Mini,(not set),540,451
+mobile,2015,Opera Mini,Android,1929,1252
+mobile,2015,Opera Mini,iOS,3,3
+mobile,2015,Opera Mini,Samsung,108,92
+mobile,2015,Opera Mini,Windows Phone,23,13
+mobile,2015,Safari,iOS,389,369
+mobile,2015,Safari,Nokia,13,10
+mobile,2015,Safari,SymbianOS,3,3
+mobile,2015,Safari,Windows Phone,190,170
+mobile,2015,Safari (in-app),iOS,13,7
+mobile,2015,UC Browser,Android,232,150
+mobile,2015,UC Browser,iOS,7,7
+mobile,2015,UC Browser,Nokia,137,95
+mobile,2015,UC Browser,SymbianOS,33,26
+mobile,2015,UC Browser,Windows Phone,20,16
+tablet,2015,Amazon Silk,Android,16,3
+tablet,2015,Android Browser,Android,114,95
+tablet,2015,Chrome,Android,562,304
+tablet,2015,Chrome,iOS,75,65
+tablet,2015,Firefox,Android,36,26
+tablet,2015,Internet Explorer,Windows,10,10
+tablet,2015,Opera Mini,iOS,3,3
+tablet,2015,Safari,iOS,268,203
+tablet,2015,Safari (in-app),iOS,3,3
+tablet,2015,UC Browser,Android,65,33
+desktop,2016,Chrome,Chrome OS,56,49
+desktop,2016,Chrome,FreeBSD,3,3
+desktop,2016,Chrome,Linux,847,654
+desktop,2016,Chrome,Macintosh,1520,1292
+desktop,2016,Chrome,Windows,120538,70420
+desktop,2016,Coc Coc,Windows,7,7
+desktop,2016,CoolNovo,Windows,29,7
+desktop,2016,Edge,Windows,1406,968
+desktop,2016,Firefox,Linux,1099,929
+desktop,2016,Firefox,Macintosh,128,121
+desktop,2016,Firefox,Windows,20501,12667
+desktop,2016,Internet Explorer,Windows,3983,2822
+desktop,2016,Maxthon,Windows,137,101
+desktop,2016,Nokia Browser,(not set),1053,880
+desktop,2016,Opera,(not set),7,7
+desktop,2016,Opera,Linux,10143,5676
+desktop,2016,Opera,Macintosh,13,10
+desktop,2016,Opera,Windows,1458,1059
+desktop,2016,PlayFreeBrowser,Windows,3,3
+desktop,2016,Safari,Linux,464,334
+desktop,2016,Safari,Macintosh,1177,1040
+desktop,2016,Safari,Windows,16,13
+desktop,2016,SeaMonkey,Windows,3,3
+desktop,2016,UC Browser,(not set),11565,8691
+desktop,2016,UC Browser,Linux,759,579
+desktop,2016,UC Browser,Macintosh,3,3
+desktop,2016,UC Browser,Windows,59,29
+desktop,2016,YaBrowser,Windows,7,7
+mobile,2016,Amazon Silk,Android,3,3
+mobile,2016,Android Browser,Android,6598,5173
+mobile,2016,Android Webview,Android,831,549
+mobile,2016,BlackBerry,BlackBerry,520,340
+mobile,2016,BrowserNG,SymbianOS,3,3
+mobile,2016,Chrome,Android,101492,81445
+mobile,2016,Chrome,iOS,958,863
+mobile,2016,Dolfin,Bada,36,16
+mobile,2016,Edge,Windows,428,262
+mobile,2016,Firefox,Android,1298,987
+mobile,2016,HS-U971,Android,3,3
+mobile,2016,Internet Explorer,Windows,222,173
+mobile,2016,Internet Explorer,Windows Phone,971,814
+mobile,2016,Maxthon,Android,7,7
+mobile,2016,MWP,Windows Phone,3,3
+mobile,2016,NetFront,Samsung,23,10
+mobile,2016,Netscape,Android,10,10
+mobile,2016,Nokia Browser,Android,141,92
+mobile,2016,Nokia Browser,SymbianOS,39,39
+mobile,2016,Nokia202,Nokia,3,3
+mobile,2016,Nokia7230,Nokia,3,3
+mobile,2016,Opera,Android,1491,1259
+mobile,2016,Opera Mini,(not set),5375,3835
+mobile,2016,Opera Mini,Android,19792,15050
+mobile,2016,Opera Mini,BlackBerry,10,10
+mobile,2016,Opera Mini,iOS,29,26
+mobile,2016,Opera Mini,Samsung,1226,876
+mobile,2016,Opera Mini,Windows Phone,363,265
+mobile,2016,Phantom Browser,Android,13,7
+mobile,2016,Safari,iOS,8491,7314
+mobile,2016,Safari,Nokia,20,16
+mobile,2016,Safari,SymbianOS,3,3
+mobile,2016,Safari,Windows Phone,2083,1635
+mobile,2016,Safari (in-app),iOS,29,29
+mobile,2016,UC Browser,Android,28754,23800
+mobile,2016,UC Browser,BlackBerry,7,7
+mobile,2016,UC Browser,iOS,298,258
+mobile,2016,UC Browser,Nokia,324,255
+mobile,2016,UC Browser,SymbianOS,111,98
+mobile,2016,UC Browser,Windows Phone,219,134
+mobile,2016,YaBrowser,Android,3,3
+tablet,2016,Amazon Silk,Android,52,39
+tablet,2016,Android Browser,Android,817,579
+tablet,2016,Android Webview,Android,72,49
+tablet,2016,Chrome,Android,6111,4669
+tablet,2016,Chrome,iOS,553,487
+tablet,2016,Firefox,Android,82,26
+tablet,2016,Internet Explorer,Windows,186,154
+tablet,2016,Opera,Android,43,36
+tablet,2016,Opera Mini,(not set),173,150
+tablet,2016,Safari,iOS,2416,1991
+tablet,2016,Safari (in-app),iOS,16,7
+tablet,2016,UC Browser,Android,611,494
+tablet,2016,UC Browser,iOS,52,29
+desktop,2017,(not set),(not set),3,3
+desktop,2017,Chrome,Chrome OS,278,216
+desktop,2017,Chrome,Linux,2132,1632
+desktop,2017,Chrome,Macintosh,3845,3211
+desktop,2017,Chrome,Windows,189744,147006
+desktop,2017,Coc Coc,Windows,3,3
+desktop,2017,Default,(not set),10,3
+desktop,2017,Edge,Windows,3894,2979
+desktop,2017,Firefox,Linux,2423,1874
+desktop,2017,Firefox,Macintosh,284,235
+desktop,2017,Firefox,OS/2,490,320
+desktop,2017,Firefox,Windows,35767,26991
+desktop,2017,Internet Explorer,Windows,4950,3678
+desktop,2017,JUC,Linux,7,7
+desktop,2017,LYF_LS_4002_12,(not set),23,16
+desktop,2017,Maxthon,Windows,75,62
+desktop,2017,Nokia Browser,(not set),1122,935
+desktop,2017,nokia501,(not set),3,3
+desktop,2017,Opera,(not set),7,7
+desktop,2017,Opera,Linux,5814,3652
+desktop,2017,Opera,Macintosh,46,36
+desktop,2017,Opera,Windows,3289,2632
+desktop,2017,Puffin,Linux,49,36
+desktop,2017,Safari,Linux,778,589
+desktop,2017,Safari,Macintosh,3322,2717
+desktop,2017,Safari,Windows,10,10
+desktop,2017,Samsung Internet,Linux,10,10
+desktop,2017,samsung-gt-s5380k,(not set),7,3
+desktop,2017,Spice Mi-509,(not set),10,7
+desktop,2017,TTECHNO,(not set),3,3
+desktop,2017,UC Browser,(not set),16228,12677
+desktop,2017,UC Browser,Linux,379,324
+desktop,2017,UC Browser,Windows,464,402
+mobile,2017,Amazon Silk,Android,13,13
+mobile,2017,Android Browser,Android,4290,3361
+mobile,2017,Android Webview,Android,10738,8429
+mobile,2017,BlackBerry,BlackBerry,124,108
+mobile,2017,Chrome,Android,256593,224148
+mobile,2017,Chrome,BlackBerry,3,3
+mobile,2017,Chrome,iOS,2282,1955
+mobile,2017,Dolfin,Samsung,7,3
+mobile,2017,Edge,Windows,788,634
+mobile,2017,Firefox,Android,2135,1645
+mobile,2017,Firefox,Firefox OS,3,3
+mobile,2017,Firefox,iOS,16,7
+mobile,2017,Internet Explorer,Windows,163,134
+mobile,2017,Internet Explorer,Windows Phone,804,611
+mobile,2017,NetFront,Samsung,59,49
+mobile,2017,Nokia Browser,Android,82,62
+mobile,2017,Nokia Browser,SymbianOS,13,16
+mobile,2017,Nokia2690,Nokia,3,3
+mobile,2017,Opera,Android,3309,2737
+mobile,2017,Opera Mini,(not set),4153,2949
+mobile,2017,Opera Mini,Android,23839,18356
+mobile,2017,Opera Mini,iOS,3,3
+mobile,2017,Opera Mini,Samsung,1213,965
+mobile,2017,Opera Mini,Windows Phone,163,114
+mobile,2017,Playstation Vita Browser,Playstation Vita,3,3
+mobile,2017,Puffin,Android,7,7
+mobile,2017,Safari,iOS,16188,14367
+mobile,2017,Safari,Nokia,10,10
+mobile,2017,Safari,SymbianOS,3,3
+mobile,2017,Safari,Windows Phone,2236,1723
+mobile,2017,Safari (in-app),iOS,92,88
+mobile,2017,Samsung Internet,Android,5290,4032
+mobile,2017,Samsung Internet,Tizen,405,304
+mobile,2017,UC Browser,Android,70214,59077
+mobile,2017,UC Browser,BlackBerry,7,7
+mobile,2017,UC Browser,iOS,827,644
+mobile,2017,UC Browser,Nokia,193,167
+mobile,2017,UC Browser,SymbianOS,23,23
+mobile,2017,UC Browser,Windows Phone,128,92
+mobile,2017,UCWEB,Android,432,343
+mobile,2017,YaBrowser,Android,23,23
+tablet,2017,Amazon Silk,Android,36,36
+tablet,2017,Android Browser,Android,553,422
+tablet,2017,Android Webview,Android,438,317
+tablet,2017,BlackBerry,BlackBerry,3,3
+tablet,2017,Chrome,Android,8083,6333
+tablet,2017,Chrome,iOS,1357,1089
+tablet,2017,Firefox,Android,7,7
+tablet,2017,Internet Explorer,Windows,281,213
+tablet,2017,Netscape,Android,3,3
+tablet,2017,Opera,Android,56,52
+tablet,2017,Opera Mini,(not set),255,216
+tablet,2017,Opera Mini,Tizen,49,39
+tablet,2017,Safari,iOS,4614,3777
+tablet,2017,Safari (in-app),iOS,26,23
+tablet,2017,Samsung Internet,Android,147,108
+tablet,2017,UC Browser,Android,693,559
+tablet,2017,UC Browser,iOS,7,7
+desktop,2018,(not set),(not set),7,7
+desktop,2018,Chrome,Chrome OS,229,183
+desktop,2018,Chrome,Linux,3080,2282
+desktop,2018,Chrome,Macintosh,4937,4123
+desktop,2018,Chrome,Windows,8554,153797
+desktop,2018,curl,(not set),3,3
+desktop,2018,Edge,Windows,6644,5303
+desktop,2018,Firefox,Linux,3754,2498
+desktop,2018,Firefox,Macintosh,291,213
+desktop,2018,Firefox,OS/2,265,114
+desktop,2018,Firefox,Windows,31399,23303
+desktop,2018,Internet Explorer,Windows,683941,2711
+desktop,2018,Maxthon,Windows,85,75
+desktop,2018,Nokia Browser,(not set),56,49
+desktop,2018,Opera,Linux,690,608
+desktop,2018,Opera,Macintosh,29,29
+desktop,2018,Opera,Windows,3920,3283
+desktop,2018,Puffin,Linux,20,16
+desktop,2018,Puffin,Windows,7,7
+desktop,2018,Safari,Linux,7,7
+desktop,2018,Safari,Macintosh,4077,3414
+desktop,2018,Safari,Windows,13,13
+desktop,2018,Samsung Internet,Linux,23,10
+desktop,2018,SeaMonkey,Windows,3,3
+desktop,2018,UC Browser,(not set),13,10
+desktop,2018,UC Browser,Linux,10,10
+desktop,2018,UC Browser,Windows,229,196
+desktop,2018,YaBrowser,Windows,20,20
+mobile,2018,Android Browser,Android,3021,2665
+mobile,2018,Android Runtime,Android,7,7
+mobile,2018,Android Webview,Android,9136,6889
+mobile,2018,BlackBerry,BlackBerry,75,65
+mobile,2018,Chrome,Android,176346,296163
+mobile,2018,Chrome,BlackBerry,20,13
+mobile,2018,Chrome,iOS,3276,2763
+mobile,2018,Edge,Windows,608,458
+mobile,2018,Firefox,Android,1484,1259
+mobile,2018,Firefox,iOS,3,3
+mobile,2018,HTCD816t_LTE,Android,3,3
+mobile,2018,Internet Explorer,Windows,62,39
+mobile,2018,Internet Explorer,Windows Phone,549,471
+mobile,2018,Maxthon,Android,3,3
+mobile,2018,Nokia Browser,Android,16,16
+mobile,2018,Opera,Android,3914,2943
+mobile,2018,Opera Mini,(not set),674,526
+mobile,2018,Opera Mini,Android,13170,10267
+mobile,2018,Opera Mini,Samsung,245,222
+mobile,2018,Opera Mini,Windows Phone,3,3
+mobile,2018,Puffin,Android,46,39
+mobile,2018,Safari,iOS,21253,17823
+mobile,2018,Safari,Windows Phone,1040,801
+mobile,2018,Safari (in-app),iOS,52,46
+mobile,2018,Samsung Internet,Android,14311,11163
+mobile,2018,Samsung Internet,Tizen,883,657
+mobile,2018,UC Browser,Android,44592,36392
+mobile,2018,UC Browser,iOS,575,507
+mobile,2018,UC Browser,SymbianOS,7,3
+mobile,2018,UCWEB,Android,3,3
+mobile,2018,YaBrowser,Android,3,3
+tablet,2018,Amazon Silk,Android,33,29
+tablet,2018,Android Browser,Android,111,82
+tablet,2018,Android Webview,Android,206,144
+tablet,2018,Chrome,Android,519783,7687
+tablet,2018,Chrome,iOS,948,755
+tablet,2018,Firefox,Android,3708,2841
+tablet,2018,Internet Explorer,Windows,3117,235
+tablet,2018,Opera,Android,36,20
+tablet,2018,Opera Mini,Tizen,134,114
+tablet,2018,Safari,iOS,2269,1923
+tablet,2018,Safari (in-app),iOS,10,7
+tablet,2018,Samsung Internet,Android,219,137
+tablet,2018,UC Browser,Android,356,301
+tablet,2018,UC Browser,iOS,3,3
+tablet,2018,UC Browser,Windows,3,3

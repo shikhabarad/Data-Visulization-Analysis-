@@ -1,0 +1,2 @@
+for python programming
+use geo it.csv and geo location session .csv file
